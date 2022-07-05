@@ -2,6 +2,7 @@
 //#define EXCLUDENONCONFIGALIASES // If pressent, this removes all aliases that add a default WeebData
 #define INCLUDEDOWNLOADMETHODS // Include Download* Methods
 #define INCLUDEUPLOADMETHODS // Include Upload* Methods
+#define USEWEEBCLIENT
 #endregion
 
 #region Imports
